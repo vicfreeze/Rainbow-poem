@@ -6,4 +6,5 @@ blue
 red
 orange
 green
+yellow
 colors in the rainbow(sort of)
